@@ -1,6 +1,5 @@
 ModIDS = { 
-   9898456,
-5345573,
+   
 
 
 
@@ -27,3 +26,4 @@ function swagnames()
 end
 local success,err = pcall(swagnames)
 return ModIDS
+
